@@ -1,0 +1,18 @@
+--- #YAML:1.0
+name: Exception-Class-Sugar
+version: 0.1
+author:
+  - David A. Golden (DAGOLDEN), dagolden@dagolden.com
+  - http://dagolden.com/
+abstract: Syntactic sugar for use with Exception::Class
+license: perl
+requires:
+  Exception::Class: 1.19
+build_requires:
+  Test::Exception: 0.19
+  Test::Simple: 0.44
+provides:
+  Exception::Class::Sugar:
+    file: lib/Exception/Class/Sugar.pm
+    version: 0.1
+generated_by: Module::Build version 0.25

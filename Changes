@@ -1,0 +1,7 @@
+Revision history for Perl module Exception::Class::Sugar
+
+0.10 Thu Sep  9 10:20:51 EDT 2004
+    - initial public release
+
+0.01 Fri Sep  3 00:09:17 2004
+	- original version; created by ExtUtils::ModuleMaker::TT

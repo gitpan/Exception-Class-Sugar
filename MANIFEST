@@ -1,0 +1,9 @@
+Build.PL
+Changes
+lib/Exception/Class/Sugar.pm
+LICENSE
+MANIFEST
+META.yml
+README
+t/Exception_Class_Sugar.t
+Todo
